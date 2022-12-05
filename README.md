@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Fizza Abid <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Data Engineer and Data Analyst</h3>
+-Hands-on with Cloud based technologies including AWS S3, AWS EMR, AWS Glue, AWS Cloudwatch, etc.
+-Worked on creating making sense out of raw data
+-Have worked on thousands of queries and KPIs
+              
+-Can create and deploy databases
 
-- Bullet list
-              - Nested bullet
-              -Hands-on with Cloud based technologies including AWS S3, AWS EMR, AWS Glue, AWS Cloudwatch, etc.
-              
-              * Worked on creating making sense out of raw data
-              
-              * Have worked on thousands of queries and KPIs
-              
-              * Can create and deploy databases
-              
-              * Can customize docker images 
-              
-              * Can deploy and create helm charts
-              
-              * Have worked on **Apache Airflow**, **Apache Superset**, **Apache Pinot**, **Apache Spark**, **Apache Ranger**, etc. 
+-Can customize docker images 
+
+-Can deploy and create helm charts
+
+-Have worked on **Apache Airflow**, **Apache Superset**, **Apache Pinot**, **Apache Spark**, **Apache Ranger**, etc. 
 
 
 - 🔭 I’m currently working on creating **Data Platform** and wide variety of Analytical tools.
