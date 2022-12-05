@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fizza Abid <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi, I'm Fizza Abid <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Data Engineer and Data Analyst</h3>
 
 
@@ -20,6 +20,10 @@
 
 - 🌱 Hands of experience of wide variety of **big data technologies**
 
+- 👯 All kinds of AWS Cloud Solutions - Kubernetes, EC2, Databases, EMR and etc
+
+- 👯 Data warehousing Solution - Data lake, Data marts, Tableau, Quicksight, AWS Redshift, AWS RDS, AWS Glue, MongoDB, Cassandra
+
 - 🌱 Completed my Masters in Data Science (DS)
 
 - 🌱 Published two research papers in IEEE Xplore
@@ -30,7 +34,7 @@
 
 - ⚡ What I like to do: I love to make ETL Pipelines and automating code using selenium, scrapy, Beautiful Soup, etc.
 
-- ⚡ How to reach me **fizzabid96@gmail.com**
+- 💬 How to reach me **fizzabid96@gmail.com**
 
 
 <h3 align="center">Connect with me:</h3>
