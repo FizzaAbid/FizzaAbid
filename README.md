@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fizza Abid <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Data Engineer and Data Analyst</h3>
+<h3 align="center">A passionate Data Engineer with keen interest in DataOps</h3>
 
 
 - 🔭Hands-on with Cloud based technologies including AWS S3, AWS EMR, AWS Glue, AWS Cloudwatch, etc.
