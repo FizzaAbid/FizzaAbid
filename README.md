@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fizza Abid <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Data Engineer and Data Analyst</h3>
 
+ Markup : * Bullet list
+              * Hands-on with Cloud based technologies including AWS S3, AWS EMR, AWS Glue, AWS Cloudwatch, etc.
+              * Worked on creating making sense out of raw data
+              * Have worked on thousands of queries and KPIs
+              * Can create and deploy databases
+              * Can customize docker images 
+              * Can deploy and create helm charts
+              * Have worked on **Apache Airflow**, **Apache Superset**, **Apache Pinot**, **Apache Spark**, **Apache Ranger**, etc. 
 
 
 - 🔭 I’m currently working on creating **Data Platform** and wide variety of Analytical tools.
@@ -12,13 +20,13 @@
 - ⚡ What I like to do: **I love to make ETL Pipelines and automating code using selenium, scrapy, Beautiful Soup, etc.**
 - ⚡ How to reach me **fizzabid96@gmail.com**
 
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fizza-abid-839914b6/)
+[![image](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://medium.com/@fizzabid96)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fizzabid96@gmail.com)
   
 </div>
 
@@ -52,6 +60,3 @@
 
 ------
 
-[BrantLauro](https://github.com/BrantLauro)
-
-Last Edited on: 05/08/2021
