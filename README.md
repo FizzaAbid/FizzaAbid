@@ -2,20 +2,19 @@
 <h3 align="center">A passionate Data Engineer and Data Analyst</h3>
 
 
--Hands-on with Cloud based technologies including AWS S3, AWS EMR, AWS Glue, AWS Cloudwatch, etc.
+- 🔭Hands-on with Cloud based technologies including AWS S3, AWS EMR, AWS Glue, AWS Cloudwatch, etc.
 
--Worked on creating making sense out of raw data
+- 🌱Worked on creating making sense out of raw data
 
--Have worked on thousands of queries and KPIs
-              
--Can create and deploy databases
+- ⚡Have worked on thousands of queries and KPIs
 
--Can customize docker images 
+- 👯Can create and deploy databases
 
--Can deploy and create helm charts
+- 📫 Can customize docker images 
 
--Have worked on **Apache Airflow**, **Apache Superset**, **Apache Pinot**, **Apache Spark**, **Apache Ranger**, etc. 
+- 🌱 Can deploy and create helm charts
 
+- 🔭 Have worked on **Apache Airflow**, **Apache Superset**, **Apache Pinot**, **Apache Spark**, **Apache Ranger**, etc. 
 
 - 🔭 I’m currently working on creating **Data Platform** and wide variety of Analytical tools.
 
