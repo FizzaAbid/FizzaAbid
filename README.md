@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Fizza Abid <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Data Engineer and Data Analyst</h3>
 
- Markup : * Bullet list
+ * Bullet list
               * Hands-on with Cloud based technologies including AWS S3, AWS EMR, AWS Glue, AWS Cloudwatch, etc.
+              
               * Worked on creating making sense out of raw data
+              
               * Have worked on thousands of queries and KPIs
+              
               * Can create and deploy databases
+              
               * Can customize docker images 
+              
               * Can deploy and create helm charts
+              
               * Have worked on **Apache Airflow**, **Apache Superset**, **Apache Pinot**, **Apache Spark**, **Apache Ranger**, etc. 
 
 
@@ -17,7 +23,7 @@
 - 🌱 Published two research papers in IEEE Xplore
 - 👯 Have worked on GCP, Azure, and AWS**
 - 📫 Can design data lake, datamesh architecture, data marts, feature stores, and custom ETL solutions**
-- ⚡ What I like to do: **I love to make ETL Pipelines and automating code using selenium, scrapy, Beautiful Soup, etc.**
+- ⚡ What I like to do: I love to make ETL Pipelines and automating code using selenium, scrapy, Beautiful Soup, etc.
 - ⚡ How to reach me **fizzabid96@gmail.com**
 
 
